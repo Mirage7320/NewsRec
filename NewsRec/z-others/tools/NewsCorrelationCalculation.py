@@ -67,6 +67,7 @@ class Correlation:
 
 if __name__ == "__main__":
     # 原始数据文件路径
+    # original
     original_data_path = "./../data/keywords/"
     files = os.listdir(original_data_path)
     for file in files:
